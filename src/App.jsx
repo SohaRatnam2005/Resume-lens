@@ -131,7 +131,7 @@ function App() {
           <div className="upload-area">
             <div className="upload-zone">
               <div className="text-4xl sm:text-5xl lg:text-6xl mb-4">📄</div>
-              
+
               <p className="text-sm sm:text-m text-slate-200 mb-2">
                 PDF files only ● Get Instant analysis{" "}
               </p>
