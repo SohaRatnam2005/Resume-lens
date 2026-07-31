@@ -38,7 +38,7 @@
 
 /* Button gradients */
 .btn-primary {
-  @apply px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-teal-500 to-sky-500 text-white font-semibold rounded-lg cursor-pointer hover:opacity-80 transition text-base sm:text-lg;
+  @apply px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-indigo-700 text-white font-semibold rounded-lg cursor-pointer hover:opacity-80 transition text-base sm:text-lg;
 }
 
 .btn-secondary {
