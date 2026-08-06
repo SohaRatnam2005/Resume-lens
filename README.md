@@ -123,19 +123,19 @@ http://localhost:3000
 
 ---
 
-## 🔑 Environment Setup
 
-Create a `.env.local` file and add required environment variables:
-
-```env
-NEXT_PUBLIC_PUTER_API_KEY=your_api_key
-```
-
----
 
 ## 📸 Screenshots
 
-(Add screenshots of the homepage, upload section, and AI analysis dashboard here)
+### 🏠 Landing Page
+![Landing Page](Landingpage.png)
+
+### 📄 Resume Upload
+![Resume Upload](analysis.png)
+
+### 🤖 AI Analysis Dashboard
+![AI Analysis](result.png)
+![AI Analysis ](result2.png)
 
 ---
 
@@ -149,16 +149,4 @@ NEXT_PUBLIC_PUTER_API_KEY=your_api_key
 * User authentication and saved reports
 
 ---
-
-## 👩‍💻 Author
-
-**Soha Ratnam**
-
-* GitHub: https://github.com/SohaRatnam2005
-* Portfolio: https://soha-portfolio-ten.vercel.app/
-
----
-
-## ⭐ Why ResumeLens?
-
-ResumeLens combines AI and career development to make resume improvement accessible. Instead of manually guessing what recruiters look for, users receive instant AI-driven insights to build stronger applications.
+Made with Love by Soha 💖
